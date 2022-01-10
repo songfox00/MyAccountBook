@@ -1,0 +1,7 @@
+{
+    "host": "호스트주소",
+    "user": "db관리자",
+    "password": "db비번",
+    "port": "포트번호",
+    "database": "db이름"
+}
